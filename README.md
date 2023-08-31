@@ -1,6 +1,7 @@
 # local
 Search for locals (nearby).
 
+* actuary
 * carpenter
 * paperboy
 * priest
