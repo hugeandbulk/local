@@ -3,6 +3,8 @@ Search for locals (nearby).
 
 * actuary
 * advocate
+* blacksmith
+* goldsmith
 * notary
 * carpenter
 * paperboy
