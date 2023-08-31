@@ -1,5 +1,5 @@
 # local
-Search for locals. 
+Search for locals (nearby).
 
 * carpenter
 * electrician
@@ -8,6 +8,9 @@ Search for locals.
 * driver
 * mechanic
 * technician
+* doctor
+* dentist
+* hospital
 * shop
 * etc.
 
