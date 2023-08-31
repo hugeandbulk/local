@@ -12,6 +12,7 @@ Search for locals (nearby).
 * confectioner
 * cobbler
 * stonemason
+* Ragman
 * labour
 * doctor
 * dentist
