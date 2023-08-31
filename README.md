@@ -7,6 +7,7 @@ Search for locals (nearby).
 * electrician
 * tailor
 * teacher
+* laird
 * driver
 * mechanic
 * technician
