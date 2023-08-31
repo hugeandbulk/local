@@ -2,6 +2,8 @@
 Search for locals (nearby).
 
 * actuary
+* advocate
+* notary
 * carpenter
 * paperboy
 * priest
