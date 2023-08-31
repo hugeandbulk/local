@@ -6,6 +6,8 @@ Search for locals.
 * tailor
 * teacher
 * driver
+* mechanic
+* technician
 * shop
 * etc.
 
