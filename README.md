@@ -10,6 +10,7 @@ Search for locals (nearby).
 * laird
 * driver
 * mechanic
+* gardener
 * technician
 * confectioner
 * cobbler
