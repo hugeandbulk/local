@@ -8,6 +8,7 @@ Search for locals (nearby).
 * notary
 * carpenter
 * paperboy
+* plumber
 * priest
 * electrician
 * tailor
