@@ -1,4 +1,4 @@
-# local
+# local. 
 Search for locals (nearby).
 
 * actuary
