@@ -9,7 +9,8 @@ Search for locals (nearby).
 * driver
 * mechanic
 * technician
-* Confectioner
+* confectioner
+* cobbler
 * stonemason
 * labour
 * doctor
