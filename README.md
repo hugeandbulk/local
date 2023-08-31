@@ -23,6 +23,7 @@ Search for locals (nearby).
 * stonemason
 * Ragman
 * labour
+* washerman
 * doctor
 * dentist
 * hospital
