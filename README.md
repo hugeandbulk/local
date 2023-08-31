@@ -2,6 +2,7 @@
 Search for locals (nearby).
 
 * carpenter
+* prist
 * electrician
 * tailor
 * teacher
