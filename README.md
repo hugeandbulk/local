@@ -31,6 +31,7 @@ Search for locals (nearby).
 * hospital
 * hotel
 * food corner
+* grocer
 * shop
 * etc.
 
