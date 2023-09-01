@@ -35,4 +35,6 @@ Search for locals (nearby).
 * shop
 * etc.
 
-Both parties — 10 ₹ minimum.
+Registration — 100 ₹
+
+Service (Both parties) — 10 ₹ minimum.
