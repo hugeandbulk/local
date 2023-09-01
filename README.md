@@ -12,6 +12,7 @@ Search for locals (nearby).
 * paperboy
 * plumber
 * priest
+* painter
 * electrician
 * tailor
 * teacher
