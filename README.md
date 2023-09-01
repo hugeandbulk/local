@@ -29,6 +29,8 @@ Search for locals (nearby).
 * doctor
 * dentist
 * hospital
+* hotel
+* food corner
 * shop
 * etc.
 
