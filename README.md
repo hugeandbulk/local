@@ -1,6 +1,9 @@
 # local. 
 Search for locals (nearby).
 
+* fire
+* police
+* ambulance
 * actuary
 * architect
 * contractor
