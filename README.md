@@ -2,6 +2,8 @@
 Search for locals (nearby).
 
 * actuary
+* architect
+* contractor
 * advocate
 * blacksmith
 * goldsmith
