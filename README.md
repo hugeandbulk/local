@@ -7,6 +7,7 @@ Search for locals (nearby).
 * advocate
 * blacksmith
 * goldsmith
+* housekeeper
 * notary
 * carpenter
 * paperboy
