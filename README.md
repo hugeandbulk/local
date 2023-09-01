@@ -36,10 +36,12 @@ Service
 * washerman
 * doctor
 * dentist
+* grocer
+
+Places
 * hospital
 * hotel
 * food corner
-* grocer
 * shop
 * etc.
 
